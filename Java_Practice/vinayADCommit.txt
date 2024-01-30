@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 I am adding a line by KanndaKing
-=======
 This file is added by vinayAD commit- added some more lines to create conflict
->>>>>>> master
+
