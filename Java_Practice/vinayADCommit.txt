@@ -1,2 +1,6 @@
 I am adding a line by KanndaKing
-Added 2nd line
+This file is added by vinayAD commit- added some more lines to create conflict
+2
+3
+4
+
